@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cronometroReact/static/css/main.ff6bf40b.chunk.css",
+    "main.js": "/cronometroReact/static/js/main.381de971.chunk.js",
+    "main.js.map": "/cronometroReact/static/js/main.381de971.chunk.js.map",
+    "runtime-main.js": "/cronometroReact/static/js/runtime-main.5617b438.js",
+    "runtime-main.js.map": "/cronometroReact/static/js/runtime-main.5617b438.js.map",
+    "static/js/2.918086c3.chunk.js": "/cronometroReact/static/js/2.918086c3.chunk.js",
+    "static/js/2.918086c3.chunk.js.map": "/cronometroReact/static/js/2.918086c3.chunk.js.map",
+    "index.html": "/cronometroReact/index.html",
+    "precache-manifest.e35bfadd1cac9726da9fc8b525e9261e.js": "/cronometroReact/precache-manifest.e35bfadd1cac9726da9fc8b525e9261e.js",
+    "service-worker.js": "/cronometroReact/service-worker.js",
+    "static/css/main.ff6bf40b.chunk.css.map": "/cronometroReact/static/css/main.ff6bf40b.chunk.css.map",
+    "static/js/2.918086c3.chunk.js.LICENSE.txt": "/cronometroReact/static/js/2.918086c3.chunk.js.LICENSE.txt",
+    "static/media/cronometro.png": "/cronometroReact/static/media/cronometro.54825791.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5617b438.js",
+    "static/js/2.918086c3.chunk.js",
+    "static/css/main.ff6bf40b.chunk.css",
+    "static/js/main.381de971.chunk.js"
+  ]
+}
